@@ -5,12 +5,24 @@
     color: #3C3C3C;
     font-weight: 500;
 }
-
 .top-image img{
     width: 400px;
 }
-.middle-pics img{
-    width: 200px;
+.woman-jacket-two img{
+    width: 262px;
+}
+.woman-jacket-three img{
+    width: 300px;
+}
+.men-jacket-one img{
+    width: 220px;
+}
+.men-jacket-two img{
+    width: 284px;
+}
+.men-jacket-three img
+{
+    width: 240px;
 }
 @media (max-width:768px){
     .top-image img{
