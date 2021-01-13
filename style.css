@@ -1,0 +1,19 @@
+.top-part img{
+    width: 280px;
+}
+.navi{
+    color: #3C3C3C;
+    font-weight: 500;
+}
+
+.top-image img{
+    width: 400px;
+}
+.middle-pics img{
+    width: 200px;
+}
+@media (max-width:768px){
+    .top-image img{
+        width: 335px;
+    }
+}
