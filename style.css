@@ -39,6 +39,9 @@
 .last-sec i{
    font-size: 2em;
 }
+.bottom-sec{
+    border-radius: 1em;
+}
 @media (max-width:768px){
     .top-image img{
         width: 335px;
