@@ -24,6 +24,13 @@
 {
     width: 223px;
 }
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
 @media (max-width:768px){
     .top-image img{
         width: 335px;
