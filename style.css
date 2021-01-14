@@ -9,7 +9,7 @@
     width: 400px;
 }
 .woman-jacket-two img{
-    width: 262px;
+    width: 263px;
 }
 .woman-jacket-three img{
     width: 288px;
@@ -18,10 +18,10 @@
     width: 220px;
 }
 .men-jacket-two img{
-    width: 282px;
+    width: 281px;
 }
 .men-jacket-three img{
-    width: 223px;
+    width: 222px;
 }
 .penguin-card{
     border: 0;
@@ -48,7 +48,10 @@
     }
 }
 @media (max-width:768px){
-    .cart-pic img{
+    .top-section{
+        margin-top: 30px; 
+    }
+.cart-pic img{
         width: 420px;
         margin-top: 30px;
         margin-bottom: 60px;
