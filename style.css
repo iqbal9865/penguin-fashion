@@ -20,8 +20,7 @@
 .men-jacket-two img{
     width: 282px;
 }
-.men-jacket-three img
-{
+.men-jacket-three img{
     width: 223px;
 }
 .penguin-card{
@@ -31,8 +30,21 @@
     border: 0;
     background-color: white;
 }
+.half-width img{
+    width: 70px;
+}
+.cart-pic img{
+    width: 600px;
+}
 @media (max-width:768px){
     .top-image img{
         width: 335px;
+    }
+}
+@media (max-width:768px){
+    .cart-pic img{
+        width: 400px;
+        margin-top: 30px;
+        margin-bottom: 60px;
     }
 }
