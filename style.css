@@ -34,7 +34,10 @@
     width: 70px;
 }
 .cart-pic img{
-    width: 600px;
+    width: 630px;
+}
+.last-sec i{
+   font-size: 2em;
 }
 @media (max-width:768px){
     .top-image img{
@@ -43,7 +46,7 @@
 }
 @media (max-width:768px){
     .cart-pic img{
-        width: 400px;
+        width: 420px;
         margin-top: 30px;
         margin-bottom: 60px;
     }
